@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**vatsalgohel31/vatsalgohel31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Repo name MUST be: vatsalgohel31 (same as your username) --> <!-- ===== Animated wave header ===== --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A1C4FD,100:C2E9FB&height=220&section=header&text=Vatsal%20Gohel&fontSize=52&fontColor=1F2937&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20Builder&descSize=20&descAlignY=58" alt="header"/> <!-- ===== Typing animation ===== --> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Vatsal;B.Tech+IT+Student+%40+LJ+University;Flutter+%7C+Web+%7C+Python+%26+AI+Tools;Building+things+that+work+and+look+good" alt="Typing SVG" /> </a> </div> <br/> <!-- ===== Badges ===== --> <div align="center"> <img src="https://komarev.com/ghpvc/?username=vatsalgohel31&label=Profile+Views&color=2F80ED&style=flat" alt="views"/> <img src="https://img.shields.io/github/followers/vatsalgohel31?label=Followers&style=flat&color=2F80ED" alt="followers"/> </div>
+👨‍💻 About Me
+🎓 B.Tech Information Technology student at LJ University, Ahmedabad
+📱 Building mobile apps with Flutter
+🌐 Creating websites and web apps
+🤖 Exploring AI-powered tools and projects
+🌱 Always learning, always shipping
+🛠️ Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,react,python,git,github,vscode&theme=light" alt="skills"/> </div>
+📊 GitHub Stats
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=vatsalgohel31&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2F80ED&icon_color=2F80ED" alt="stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalgohel31&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2F80ED" alt="top languages"/> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=vatsalgohel31&theme=default&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" alt="streak"/> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/vatsalgohel31/vatsalgohel31/output/github-snake.svg" alt="snake animation"/> </div>
+📬 Let's Connect
+<div align="center"> <a href="mailto:gvatsal25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://linkedin.com/in/vatsalgohel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://instagram.com/vatsalgohel31"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <a href="https://portfolio-ten-gamma-45pbmye5ug.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> </div> <!-- ===== Wave footer ===== --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C2E9FB,100:A1C4FD&height=120&section=footer" alt="footer"/>
